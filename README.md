@@ -1,2 +1,1 @@
-Hệ thống Quản lý Nhân sự
-Họ tên: Nguyễn Trúc Sương
+Hệ Thống Quản Lý Nhân Sự
